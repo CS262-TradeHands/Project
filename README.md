@@ -9,12 +9,12 @@ The key feature in our application is an account-matching algorithm based on an 
 Pauline Lu, Claire Van Der Vliet, Hayden Stob, Micah Wakefield, Moses Kuria, and Ethan Mwebaza
 
 Links to Our Project Code Bases:
-[https://github.com/CS262-TradeHands/Client](Mobile Client)
-[https://github.com/CS262-TradeHands/Service](Data Service)
+* [Mobile Client](https://github.com/CS262-TradeHands/Client)
+* [Data Service](https://github.com/CS262-TradeHands/Service)
 
 Links to Other Project Deliverables:
-Domain Model
-User Interface Model
+* Domain Model
+* User Interface Model
 
 [^1]: Marks, Gene. “Boomers Are Selling Businesses to Millennials in a Generational Handover.” The Guardian, The Guardian, 18 Aug. 2024, [www.theguardian.com/business/article/2024/aug/18/small-business-boomer-millennial-wealth.]
 [^2]: Baker, Jessica. “Succession Planning Statistics in 2023: Preserving a Legacy.” Teamshares Blog, 11 July 2023, [www.teamshares.com/resources/succession-planning-statistics/]
