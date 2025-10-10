@@ -16,7 +16,7 @@ Links to Our Project Code Bases:
 
 Links to Other Project Deliverables:
 
-* [Domain Model](images\TradeHandsDomain.png)
+* [Domain Model](images/TradeHandsDomain.png)
 
 * [User Interface Model](images/IMG_7689.JPEG)
 
