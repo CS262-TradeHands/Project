@@ -14,7 +14,7 @@ Links to Our Project Code Bases:
 
 Links to Other Project Deliverables:
 * Domain Model
-* [User Interface Model] (https://github.com/CS262-TradeHands/Project/blob/main/images/IMG_7689.JPEG)
+* [User Interface Model](https://github.com/CS262-TradeHands/Project/blob/main/images/IMG_7689.JPEG)
 
 [^1]: Marks, Gene. “Boomers Are Selling Businesses to Millennials in a Generational Handover.” The Guardian, The Guardian, 18 Aug. 2024, [www.theguardian.com/business/article/2024/aug/18/small-business-boomer-millennial-wealth.]
 [^2]: Baker, Jessica. “Succession Planning Statistics in 2023: Preserving a Legacy.” Teamshares Blog, 11 July 2023, [www.teamshares.com/resources/succession-planning-statistics/]
