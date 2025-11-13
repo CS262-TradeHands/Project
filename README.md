@@ -20,5 +20,7 @@ Links to Other Project Deliverables:
 
 * [User Interface Model](images/full_overview.png)
 
+* [Technical Presentation Slides](https://www.canva.com/design/DAG4C3_lOHE/rgALln1V9RU1nF_4WPrC-A/edit)
+
 [^1]: Marks, Gene. “Boomers Are Selling Businesses to Millennials in a Generational Handover.” The Guardian, The Guardian, 18 Aug. 2024, [www.theguardian.com/business/article/2024/aug/18/small-business-boomer-millennial-wealth.]
 [^2]: Baker, Jessica. “Succession Planning Statistics in 2023: Preserving a Legacy.” Teamshares Blog, 11 July 2023, [www.teamshares.com/resources/succession-planning-statistics/]
