@@ -20,5 +20,9 @@ Links to Other Project Deliverables:
 
 * [Technical Presentation Slides](https://github.com/CS262-TradeHands/Project/blob/main/images/TradeHands%20Technical%20Presentation%20.pdf)
 
+* [Usability Test Script](Usability_Test_Script.pdf)
+
+* [Usability Test Report](Usability_Test_Report.pdf)
+
 [^1]: Marks, Gene. “Boomers Are Selling Businesses to Millennials in a Generational Handover.” The Guardian, The Guardian, 18 Aug. 2024, [www.theguardian.com/business/article/2024/aug/18/small-business-boomer-millennial-wealth.]
 [^2]: Baker, Jessica. “Succession Planning Statistics in 2023: Preserving a Legacy.” Teamshares Blog, 11 July 2023, [www.teamshares.com/resources/succession-planning-statistics/]
